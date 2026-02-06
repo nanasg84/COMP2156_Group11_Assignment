@@ -9,3 +9,7 @@ The course emphasizes proper branching strategies, commit practices, and reposit
 The course also introduces continuous integration concepts using tools such as GitHub Actions. 
 
 These tools help automate workflows and ensure that changes are validated consistently whenever updates are made to a repository.
+
+Overall, COMP 2156 prepares students to understand how DevOps improves efficiency, reliability, and teamwork in IT environments. 
+
+The skills gained in this course are valuable for careers in system administration and software development.
