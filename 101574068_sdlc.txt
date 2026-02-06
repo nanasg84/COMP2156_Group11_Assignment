@@ -5,3 +5,7 @@ This collaboration helps reduce delays and misunderstandings during software del
 By using DevOps practices, teams can integrate and test code changes more frequently. 
 
 Continuous integration allows issues to be detected early, which reduces the cost and effort of fixing problems later in the development cycle.
+
+Automation is a key benefit of DevOps within the SDLC. 
+
+Automated testing and deployment processes help ensure consistency across environments and minimize human error.
