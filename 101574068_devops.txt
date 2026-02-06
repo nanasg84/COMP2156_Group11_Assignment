@@ -6,3 +6,6 @@ Students in COMP 2156 learn how to use Git and GitHub for version control and te
 
 The course emphasizes proper branching strategies, commit practices, and repository management to support real-world development environments.
 
+The course also introduces continuous integration concepts using tools such as GitHub Actions. 
+
+These tools help automate workflows and ensure that changes are validated consistently whenever updates are made to a repository.
