@@ -1,1 +1,4 @@
 COMP 2156 DevOps Course 
+Devops is a set of practice that combines software development
+and IT operations. The goal of DevOps is to shorten
+development cycle and tackle tough tasks early.
