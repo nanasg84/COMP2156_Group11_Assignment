@@ -16,6 +16,7 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
+        working-directory: ./COMP2156_Group11_Assignment
         run: npm install
       - name: Run tests
         run: npm test
