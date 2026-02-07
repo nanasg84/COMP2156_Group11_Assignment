@@ -1,1 +1,5 @@
 SDLC and DevOps Importance 
+The Software Development Life Cycle is made up
+of several phases such as planning, analysis,
+design, development, testing, deployment and
+maintenance.
