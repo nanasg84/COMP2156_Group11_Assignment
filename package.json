@@ -1,0 +1,21 @@
+{
+  "name": "comp2156_group11_assignment",
+  "version": "1.0.0",
+  "description": "COMP 2156 DevOps repo for group assignments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanasg84/COMP2156_Group11_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nanasg84/COMP2156_Group11_Assignment/issues"
+  },
+  "homepage": "https://github.com/nanasg84/COMP2156_Group11_Assignment#readme"
+}
