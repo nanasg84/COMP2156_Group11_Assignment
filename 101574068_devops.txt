@@ -1,0 +1,15 @@
+COMP 2156 is a DevOps course that focuses on system administration concepts and modern DevOps practices. 
+
+The course introduces students to tools and workflows that support collaboration between development and operations teams.
+
+Students in COMP 2156 learn how to use Git and GitHub for version control and team collaboration. 
+
+The course emphasizes proper branching strategies, commit practices, and repository management to support real-world development environments.
+
+The course also introduces continuous integration concepts using tools such as GitHub Actions. 
+
+These tools help automate workflows and ensure that changes are validated consistently whenever updates are made to a repository.
+
+Overall, COMP 2156 prepares students to understand how DevOps improves efficiency, reliability, and teamwork in IT environments. 
+
+The skills gained in this course are valuable for careers in system administration and software development.
