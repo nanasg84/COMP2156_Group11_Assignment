@@ -1,0 +1,5 @@
+DevOps is really important in the software development cycle because it improves collaboration between development and operations teams. 
+Instead of working separately, both teams work together throughout the entire process, from planning to deployment and maintenance. 
+Continuos Integrations and Continuous Delivery (CI/CD) allow to automated pipelines tests and deploy the aplication quicky, helping the fast develop of the application. 
+DevOps aldo improve the process of monitoring and feedback because the use of tools that track applications in real time allow the teams to fix issues quickly.
+DevOps makes the SDLC faster, more efficient, and more collaborative.
