@@ -4,7 +4,9 @@ The COMP 2156 course at George Brown College focuses on the DevOps lifecycle, em
 collaboration between software developers and operations teams. The course covers essential 
 DevOps principles, tools, and practices, including version control, CI, and containerization. 
 Students will learn to build CI/CD pipelines using tools like Jenkins and Maven, and containerize 
-apps using Docker and Kubernetes. The course also includes hands-on tutorials on setting up repositories, 
+apps using Docker and Kubernetes. 
+
+The course also includes hands-on tutorials on setting up repositories, 
 managing branches, and collaborating within a development team. By the end of the course, students 
 will be proficient in setting up CI/CD pipelines, managing infrastructure as code with Ansible, 
 and monitoring applications with Prometheus and Grafana. This course is designed to equip students 
