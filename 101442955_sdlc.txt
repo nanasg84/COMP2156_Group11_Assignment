@@ -1,5 +1,6 @@
-The Importance of Learning DevOps
+<h1>The Importance of Learning DevOps</h1>
 
+<p>
 Learning DevOps is important in the Software Development Life Cycle (SDLC) because it improves how software is developed, 
 tested, deployed, and maintained by integrating development and operations into a continuous, automated process. 
 
@@ -10,3 +11,4 @@ between teams and improving overall software quality.
 
 In essence, DevOps transforms the SDLC into a faster, more efficient, and more reliable continuous cycle, 
 making it highly valuable for both organizations and software professionals.
+</P>
