@@ -10,6 +10,7 @@ Tasks Completed
 2. Add members as collaborators to git repository
 3. Integrated repository to GitHub actions
 4. Created 3 files and completed at least 10 commits as required
+5. Merged pull request to main
 
 Group Member 2
 Name: 
