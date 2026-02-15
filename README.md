@@ -17,7 +17,15 @@ Name: Valentine Bembow Bimkuteyi
 Student ID #: 101574068
 
 Tasks Completed
-1. write your completed task here
+1. Created personal branch and committed work
+
+2. Added required files and completed 10+ commits
+
+3. Created Pull Request for review
+
+4. Contributed PR template
+
+5. Pulled final updates after merge
 
 Group Member 3
 Name: Angel Manuel Flores Jesus
