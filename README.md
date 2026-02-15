@@ -13,21 +13,21 @@ Tasks Completed
 5. Merged pull request to main
 
 Group Member 2
-Name: 
+Name: Valentine Bembow Bimkuteyi
 Student ID #: 
 
 Tasks Completed
 1. write your completed task here
 
 Group Member 3
-Name: 
+Name: Angel Manuel Flores Jesus
 Student ID #: 
 
 Tasks Completed
 1. write your completed task here
 
 Group Member 4
-Name: 
+Name: Tuan
 Student ID #: 
 
 Tasks Completed
