@@ -6,4 +6,4 @@ to deploy software. Also, DevOps students will learn about data formats and type
 Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next Generation(YANG), and their value in network automation,
 along with DevOps tools such as Ansible and Git.
 
-DevOps is the most efficient way to develop applications and ensure effective teamwork.
+DevOps is the most efficient way to develop applications and ensure effective teamwork. These skills are essential for moderns software development careers.
