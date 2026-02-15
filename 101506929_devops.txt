@@ -4,6 +4,6 @@ In this course the students learn how use industry standars toolkit: Version Con
 monitor code quality and CI/CD, Create and utilize service platforms such as Infrastructure as COde and the benefits od cloud computing
 to deploy software. Also, DevOps students will learn about data formats and types, including Extensible Markup Language (XML), JavaScript
 Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next Generation(YANG), and their value in network automation,
- along with DevOps tools such as Ansible and Git.
+along with DevOps tools such as Ansible and Git.
 
- 
+DevOps is the most efficient way to develop applications and ensure effective teamwork.
