@@ -32,7 +32,16 @@ Name: Angel Manuel Flores Jesus
 Student ID #: 101506929
 
 Tasks Completed
-1. write your completed task here
+
+1. Created a personal branch and commit
+
+2. Created the different .txt files and complete the 10 required commits.
+
+3. Created Pull Request for review
+
+4. Pull, edit and push README.md 
+
+5. Merge pull requests
 
 Group Member 4
 Name: Tuan
